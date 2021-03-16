@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Financial Assistant</string>
+    <string name="app_name">Assistente Financeiro</string>
+
+    <string name="username_hint">E-mail</string>
+    <string name="password_hint">Senha</string>
+    <string name="signup">Cadastrar</string>
+    <string name="forgot">Esqueci</string>
+    <string name="login">Entrar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
